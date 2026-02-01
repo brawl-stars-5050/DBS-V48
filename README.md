@@ -7,9 +7,9 @@ This is a fork from original BSDS by risporce
 
 
 # How to play DBS:
-download server and apk
-install the apk
-download pydroid (if you want to run from the phone)
-open in pydroid Core.py located in the server folder
-click on the run button
-now open the game and play
+1. download server and apk
+2. install the apk
+3. download pydroid (if you want to run from the phone)
+4. open in pydroid Core.py located in the server folder
+5. click on the run button
+6. now open the game and play
