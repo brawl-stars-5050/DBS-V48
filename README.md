@@ -5,7 +5,7 @@ This is a fork from original BSDS by risporce
 
 zip: https://github.com/brawl-stars-5050/DBS-V48/raw/refs/heads/main/DBS-V48.zip
 
-apk: https://www.mediafire.com/file/2fzu156tq0fo2yp/BSDS-V48.apk/file
+apk: https://www.mediafire.com/file/45lzlyi09f1tks4/DBS.apk/file
 
 
 # Requirements:
